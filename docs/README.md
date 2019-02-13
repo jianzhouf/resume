@@ -13,7 +13,7 @@
 
 ## 工作经历
 微贷网-研发部门 前端工程师<span class="right">2017.04 - 至今</span><br>
-软通动力有限公司-外包至湖畔大学 前端工程师<span class="right">2016.01 - 2016.04</span>
+软通动力有限公司-外包至湖畔大学 前端工程师<span class="right">2016.01 - 2017.04</span>
 
 ## 项目经验
 ### 标准进件、审批系统<span class="role">:&nbsp;核心开发者</span><span class="right">2017.04 - 至今</span>
