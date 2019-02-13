@@ -1,7 +1,7 @@
 module.exports = {
     theme: "resume",
     base: "/resume/",
-    title: '周健的个人博客',
+    title: '简历',
     description: 'show time！',
     themeConfig: {
         displayAllHeaders: true,
