@@ -1,9 +1,9 @@
 <h1>
-  <span>姓名</span>
+  <span>周健</span>
   <ul>
-    <li><span>电话</span>xxx xxxx xxxx</li>
-    <li><span>邮箱</span><a href="mailto:xxxxxxxx@foxmail.com">xxxxxxxx@foxmail.com</a></li>
-    <li><span>Github</span><a>github.com/jianzhouf</a></li>
+    <li><span>电话</span>177 6968 2679</li>
+    <li><span>邮箱</span>515467002@qq.com</li>
+    <li><span>Github</span><a href="//github.com/jianzhouf" target="_blank">github.com/jianzhouf</a></li>
   </ul>
 </h1>
 
@@ -47,13 +47,9 @@
 
 
 ## 技能描述
-* 了解ts的基本使用，
-* 熟悉 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-* 了解 XXXXX，XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-* 熟悉 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-* 掌握 XXXXXXXXXX，XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-* XXXXXXXXXXXXXXXXXXXX，XXXXXXXXXXXXX
+* 了解 TypeScript 、react 的基本用法
+* 了解 ES6 、sass 、less 、git
 
 ## 自我评价
-* XXXXXXXXXXXXXXXXXXXXXXXXXXX,XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-* XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+* 对于工作任务能够进行合理安排，快速高效完成任务
+* 能积极与产品沟通，改善需求实现方式。
